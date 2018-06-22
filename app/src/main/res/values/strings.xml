@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="very_severely_underweight">Very Serverely Underweight</string>
+    <string name="severely_underweight">Serverely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normalweight">Normal Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class 1</string>
+    <string name="obese_class_ii">Obese Class 2</string>
+    <string name="obese_class_iii">Obese Class 3</string>
+</resources>
